@@ -7,7 +7,6 @@ print("to clear the payment.Well not anymore! Here is our project, ")
 print("that even provides you with exclusive offers that will save your time and money")
 print(" while providing you an easier way for online bill payments")
 print("click 1 to register")
-print("click 2 to login")
 n=int(input())
 if n==1:
  from register import *                                                                                                  #imports the functions defined in register module
